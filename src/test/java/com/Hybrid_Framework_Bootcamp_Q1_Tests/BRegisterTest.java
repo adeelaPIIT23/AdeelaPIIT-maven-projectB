@@ -69,8 +69,8 @@ public class BRegisterTest {
         registerPage.clickRegister();
         registerPage.enterFirstName("Adeela");
         registerPage.enterLastName("Bootcamp");
-        registerPage.enterEmail("adeela_piitbootcamp244@gmail.com");
-        registerPage.enterTelephone("4576543210");
+        registerPage.enterEmail("adeela_piitbootcamp2254@gmail.com");
+        registerPage.enterTelephone("473543210");
         registerPage.enterPassword("HybridF@123");
         registerPage.enterConfirmPassword("HybridF@123");
         registerPage.clickAgreeCheckbox();
