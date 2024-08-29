@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Hybrid Framework Suite">
+    <listeners>
+        <listener class-name="com.Hybrid_Framework_Bootcamp_Q1_Listeners.TestListener"/>
+    </listeners>
+
+    <test name="Login Tests">
+        <classes>
+            <class name="com.Hybrid_Framework_Bootcamp_Q1_Tests.ALoginTest"/>
+        </classes>
+    </test>
+</suite>
