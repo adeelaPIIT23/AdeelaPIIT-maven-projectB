@@ -7,6 +7,10 @@
     <test name="Login Tests">
         <classes>
             <class name="com.Hybrid_Framework_Bootcamp_Q1_Tests.ALoginTest"/>
+            <class name="com.Hybrid_Framework_Bootcamp_Q1_Tests.BRegisterTest"/>
+            <class name="com.Hybrid_Framework_Bootcamp_Q1_Tests.CSearchTest"/>
+            <class name="com.Hybrid_Framework_Bootcamp_Q1_Tests.DCheckoutTest"/>
+
         </classes>
     </test>
 </suite>

@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.thisisatest.Test1">
+      <class name="com.Hybrid_Framework_Bootcamp_Q1_Tests.DCheckoutTest">
         <methods>
-          <include name="teardown"/>
-          <include name="searchGoogle"/>
-          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="checkoutSamsung"/>
         </methods>
-      </class> <!-- com.thisisatest.Test1 -->
+      </class> <!-- com.Hybrid_Framework_Bootcamp_Q1_Tests.DCheckoutTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
