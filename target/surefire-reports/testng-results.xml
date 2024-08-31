@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="16" passed="14" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-30T21:31:33 EDT" name="Surefire suite" finished-at="2024-08-30T21:32:47 EDT" duration-ms="73901">
+    <groups>
+    </groups>
+    <test started-at="2024-08-30T21:31:33 EDT" name="Surefire test" finished-at="2024-08-30T21:32:47 EDT" duration-ms="73901">
+      <class name="com.BootcampQuestions_Tests.DifferentPage_Q100_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BootcampQuestions_Tests.DifferentPage_Q100_Test@be64738]" started-at="2024-08-30T21:31:38 EDT" name="setUp" finished-at="2024-08-30T21:31:38 EDT" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testNavigationAndElementPresence()[pri:0, instance:com.BootcampQuestions_Tests.DifferentPage_Q100_Test@be64738]" started-at="2024-08-30T21:31:38 EDT" name="testNavigationAndElementPresence" finished-at="2024-08-30T21:31:42 EDT" duration-ms="3340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigationAndElementPresence -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootcampQuestions_Tests.DifferentPage_Q100_Test@be64738]" started-at="2024-08-30T21:31:42 EDT" name="tearDown" finished-at="2024-08-30T21:31:42 EDT" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootcampQuestions_Tests.DifferentPage_Q100_Test -->
+      <class name="com.thisisatest.Test2">
+        <test-method is-config="true" signature="setupBrowserURL()[pri:0, instance:com.thisisatest.Test2@1e8ce150]" started-at="2024-08-30T21:32:42 EDT" name="setupBrowserURL" finished-at="2024-08-30T21:32:45 EDT" duration-ms="3337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowserURL -->
+        <test-method signature="registerAccount()[pri:1, instance:com.thisisatest.Test2@1e8ce150]" started-at="2024-08-30T21:32:45 EDT" name="registerAccount" finished-at="2024-08-30T21:32:47 EDT" duration-ms="1687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.thisisatest.Test2@1e8ce150]" started-at="2024-08-30T21:32:47 EDT" name="tearDown" finished-at="2024-08-30T21:32:47 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.thisisatest.Test2 -->
+      <class name="com.Hybrid_Framework_Bootcamp_Q1_Tests.ALoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.ALoginTest@418e7838]" started-at="2024-08-30T21:32:15 EDT" name="setUp" finished-at="2024-08-30T21:32:19 EDT" duration-ms="3483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTN()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.ALoginTest@418e7838]" started-at="2024-08-30T21:32:19 EDT" name="loginTN" finished-at="2024-08-30T21:32:20 EDT" duration-ms="1423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTN -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.ALoginTest@418e7838]" started-at="2024-08-30T21:32:20 EDT" name="tearDown" finished-at="2024-08-30T21:32:20 EDT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Hybrid_Framework_Bootcamp_Q1_Tests.ALoginTest -->
+      <class name="com.BootcampQuestions_Tests.LoginTest_Q99_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BootcampQuestions_Tests.LoginTest_Q99_Test@3d680b5a]" started-at="2024-08-30T21:31:58 EDT" name="setUp" finished-at="2024-08-30T21:31:58 EDT" duration-ms="585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:0, instance:com.BootcampQuestions_Tests.LoginTest_Q99_Test@3d680b5a]" started-at="2024-08-30T21:31:58 EDT" name="testLogin" finished-at="2024-08-30T21:32:03 EDT" duration-ms="4657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootcampQuestions_Tests.LoginTest_Q99_Test@3d680b5a]" started-at="2024-08-30T21:32:03 EDT" name="tearDown" finished-at="2024-08-30T21:32:03 EDT" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootcampQuestions_Tests.LoginTest_Q99_Test -->
+      <class name="com.BootcampQuestions_Tests.HomePage_Q67_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BootcampQuestions_Tests.HomePage_Q67_Test@3ba9ad43]" started-at="2024-08-30T21:31:42 EDT" name="setUp" finished-at="2024-08-30T21:31:45 EDT" duration-ms="3027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHomePageElements()[pri:0, instance:com.BootcampQuestions_Tests.HomePage_Q67_Test@3ba9ad43]" started-at="2024-08-30T21:31:45 EDT" name="testHomePageElements" finished-at="2024-08-30T21:31:46 EDT" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePageElements -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootcampQuestions_Tests.HomePage_Q67_Test@3ba9ad43]" started-at="2024-08-30T21:31:46 EDT" name="tearDown" finished-at="2024-08-30T21:31:46 EDT" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootcampQuestions_Tests.HomePage_Q67_Test -->
+      <class name="com.BootcampQuestions_Tests.ShoppingCartPage_Q33_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BootcampQuestions_Tests.ShoppingCartPage_Q33_Test@3c419631]" started-at="2024-08-30T21:32:12 EDT" name="setUp" finished-at="2024-08-30T21:32:14 EDT" duration-ms="2870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddProductToCart()[pri:0, instance:com.BootcampQuestions_Tests.ShoppingCartPage_Q33_Test@3c419631]" started-at="2024-08-30T21:32:14 EDT" name="testAddProductToCart" finished-at="2024-08-30T21:32:15 EDT" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddProductToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootcampQuestions_Tests.ShoppingCartPage_Q33_Test@3c419631]" started-at="2024-08-30T21:32:15 EDT" name="tearDown" finished-at="2024-08-30T21:32:15 EDT" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootcampQuestions_Tests.ShoppingCartPage_Q33_Test -->
+      <class name="com.BootcampQuestions_Tests.SearchPage_Q34_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BootcampQuestions_Tests.SearchPage_Q34_Test@4a22f9e2]" started-at="2024-08-30T21:32:09 EDT" name="setUp" finished-at="2024-08-30T21:32:11 EDT" duration-ms="2616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchProduct()[pri:0, instance:com.BootcampQuestions_Tests.SearchPage_Q34_Test@4a22f9e2]" started-at="2024-08-30T21:32:11 EDT" name="testSearchProduct" finished-at="2024-08-30T21:32:11 EDT" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootcampQuestions_Tests.SearchPage_Q34_Test@4a22f9e2]" started-at="2024-08-30T21:32:11 EDT" name="tearDown" finished-at="2024-08-30T21:32:12 EDT" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootcampQuestions_Tests.SearchPage_Q34_Test -->
+      <class name="com.BootcampQuestions_Tests.CheckoutPage_Q66_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BootcampQuestions_Tests.CheckoutPage_Q66_Test@49c386c8]" started-at="2024-08-30T21:31:34 EDT" name="setUp" finished-at="2024-08-30T21:31:37 EDT" duration-ms="2791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkoutSamsung()[pri:0, instance:com.BootcampQuestions_Tests.CheckoutPage_Q66_Test@49c386c8]" started-at="2024-08-30T21:31:37 EDT" name="checkoutSamsung" finished-at="2024-08-30T21:31:38 EDT" duration-ms="629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutSamsung -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootcampQuestions_Tests.CheckoutPage_Q66_Test@49c386c8]" started-at="2024-08-30T21:31:38 EDT" name="tearDown" finished-at="2024-08-30T21:31:38 EDT" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootcampQuestions_Tests.CheckoutPage_Q66_Test -->
+      <class name="com.BootcampQuestions_Tests.LoginPage_Q31_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BootcampQuestions_Tests.LoginPage_Q31_Test@49d904ec]" started-at="2024-08-30T21:31:46 EDT" name="setUp" finished-at="2024-08-30T21:31:51 EDT" duration-ms="4686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTN()[pri:0, instance:com.BootcampQuestions_Tests.LoginPage_Q31_Test@49d904ec]" started-at="2024-08-30T21:31:51 EDT" name="loginTN" finished-at="2024-08-30T21:31:52 EDT" duration-ms="1521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTN -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootcampQuestions_Tests.LoginPage_Q31_Test@49d904ec]" started-at="2024-08-30T21:31:52 EDT" name="tearDown" finished-at="2024-08-30T21:31:52 EDT" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootcampQuestions_Tests.LoginPage_Q31_Test -->
+      <class name="com.BootcampQuestions_Tests.LoginPage_Q32_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BootcampQuestions_Tests.LoginPage_Q32_Test@48e4374]" started-at="2024-08-30T21:31:52 EDT" name="setUp" finished-at="2024-08-30T21:31:56 EDT" duration-ms="3636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSuccessfulLogin()[pri:0, instance:com.BootcampQuestions_Tests.LoginPage_Q32_Test@48e4374]" started-at="2024-08-30T21:31:56 EDT" name="testSuccessfulLogin" finished-at="2024-08-30T21:31:58 EDT" duration-ms="1597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuccessfulLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootcampQuestions_Tests.LoginPage_Q32_Test@48e4374]" started-at="2024-08-30T21:31:58 EDT" name="tearDown" finished-at="2024-08-30T21:31:58 EDT" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootcampQuestions_Tests.LoginPage_Q32_Test -->
+      <class name="com.Hybrid_Framework_Bootcamp_Q1_Tests.BRegisterTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.BRegisterTest@61230f6a]" started-at="2024-08-30T21:32:20 EDT" name="setUp" finished-at="2024-08-30T21:32:24 EDT" duration-ms="3610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="registerTNUsingCss()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.BRegisterTest@61230f6a]" started-at="2024-08-30T21:32:24 EDT" name="registerTNUsingCss" finished-at="2024-08-30T21:32:26 EDT" duration-ms="2356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerTNUsingCss -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.BRegisterTest@61230f6a]" started-at="2024-08-30T21:32:26 EDT" name="tearDown" finished-at="2024-08-30T21:32:26 EDT" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Hybrid_Framework_Bootcamp_Q1_Tests.BRegisterTest -->
+      <class name="com.thisisatest.Test1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.thisisatest.Test1@1cdc4c27]" started-at="2024-08-30T21:31:33 EDT" name="setup" finished-at="2024-08-30T21:31:34 EDT" duration-ms="938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchGoogle()[pri:0, instance:com.thisisatest.Test1@1cdc4c27]" started-at="2024-08-30T21:32:40 EDT" name="searchGoogle" finished-at="2024-08-30T21:32:42 EDT" duration-ms="1648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.thisisatest.Test1@1cdc4c27]" started-at="2024-08-30T21:32:47 EDT" name="teardown" finished-at="2024-08-30T21:32:47 EDT" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.thisisatest.Test1 -->
+      <class name="com.BootcampQuestions_Tests.RegistrationPage_Q65_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.BootcampQuestions_Tests.RegistrationPage_Q65_Test@4b5d6a01]" started-at="2024-08-30T21:32:03 EDT" name="setUp" finished-at="2024-08-30T21:32:06 EDT" duration-ms="3219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySuccessfulRegistration()[pri:0, instance:com.BootcampQuestions_Tests.RegistrationPage_Q65_Test@4b5d6a01]" started-at="2024-08-30T21:32:06 EDT" name="verifySuccessfulRegistration" finished-at="2024-08-30T21:32:09 EDT" duration-ms="2329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfulRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.BootcampQuestions_Tests.RegistrationPage_Q65_Test@4b5d6a01]" started-at="2024-08-30T21:32:09 EDT" name="tearDown" finished-at="2024-08-30T21:32:09 EDT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.BootcampQuestions_Tests.RegistrationPage_Q65_Test -->
+      <class name="com.Hybrid_Framework_Bootcamp_Q1_Tests.CSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.CSearchTest@3c130745]" started-at="2024-08-30T21:32:26 EDT" name="setUp" finished-at="2024-08-30T21:32:31 EDT" duration-ms="4200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchProduct()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.CSearchTest@3c130745]" started-at="2024-08-30T21:32:31 EDT" name="searchProduct" finished-at="2024-08-30T21:32:31 EDT" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.CSearchTest@3c130745]" started-at="2024-08-30T21:32:31 EDT" name="tearDown" finished-at="2024-08-30T21:32:32 EDT" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Hybrid_Framework_Bootcamp_Q1_Tests.CSearchTest -->
+      <class name="com.Hybrid_Framework_Bootcamp_Q1_Tests.DCheckoutTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.DCheckoutTest@cd3fee8]" started-at="2024-08-30T21:32:32 EDT" name="setUp" finished-at="2024-08-30T21:32:35 EDT" duration-ms="3253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkoutSamsung()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.DCheckoutTest@cd3fee8]" started-at="2024-08-30T21:32:35 EDT" name="checkoutSamsung" finished-at="2024-08-30T21:32:40 EDT" duration-ms="5189" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: By.cssSelector: a.btn.btn-primary[href*='checkout/checkout'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.114, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\Adeela\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57809}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57809/devtoo..., se:cdpVersion: 128.0.6613.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1ee4eb0f38f084635dc9309e84b23583]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.cssSelector: a.btn.btn-primary[href*='checkout/checkout'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.114, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\Adeela\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57809}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57809/devtoo..., se:cdpVersion: 128.0.6613.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1ee4eb0f38f084635dc9309e84b23583
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at com.Hybrid_Framework_Bootcamp_Q1_Pages.DCheckoutPage.enterSearchTerm(DCheckoutPage.java:32)
+at com.Hybrid_Framework_Bootcamp_Q1_Tests.DCheckoutTest.checkoutSamsung(DCheckoutTest.java:25)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:169)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:88)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutSamsung -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Hybrid_Framework_Bootcamp_Q1_Tests.DCheckoutTest@cd3fee8]" started-at="2024-08-30T21:32:40 EDT" name="tearDown" finished-at="2024-08-30T21:32:40 EDT" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Hybrid_Framework_Bootcamp_Q1_Tests.DCheckoutTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
